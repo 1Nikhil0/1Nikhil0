@@ -4,7 +4,7 @@ I’m a Adobe Certified Professional - Adobe Experience Manager Developer and al
 
 * 🔭 I’m currently working in Cognizant
 * 🌱 I’m currently learning Adobe AEM
-* ⚡ Fun fact: I love music, basketball.
+* ⚡ Hobbies: I play basketball, guitar, drums, I also read books.
 
 ### Find me all around the web
 
