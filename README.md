@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Nikhil.
 
-<!--
-**1Nikhil0/1Nikhil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a front-end developer and I always look for a challenging opportunity to learn and grow. Ideally to attain practical knowledge.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working in Cognizant
+* 🌱 I’m currently learning Adobe AEM
+* ⚡ Fun fact: I love music, basketball.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me all around the web
+
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhil-dasari-35645320a/)
+
+
