@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Nikhil.
+### Hello, World! 👋 I'm Nikhil.
 
 I’m a front-end developer and I always look for a challenging opportunity to learn and grow. Ideally to attain practical knowledge.
 
