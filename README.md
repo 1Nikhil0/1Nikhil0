@@ -8,6 +8,8 @@ I’m a front-end developer and I always look for a challenging opportunity to l
 
 ### Find me all around the web
 
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhil-dasari-35645320a/)
+* [LinkedIn](https://www.linkedin.com/in/nikhil-dasari-35645320a/)
+* [Instagram](https://www.instagram.com/d.n.i.k.h.i.l/)
+* [Facebook](https://www.facebook.com/danielnikhil10)
 
 
